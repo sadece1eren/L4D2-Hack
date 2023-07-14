@@ -1,6 +1,6 @@
 # L4D2-External
 TR - Basit bir External Hile altyapısı istediğiniz gibi düzenleyebilirsiniz.
-Aimbot - ESP - BHOP // isterseniz butonu düzenleyebilir yada tamamen farklı bir oyuna yapabilirsiniz. ( Farklı bir oyuna yaparsanız offsetleri güncellemeyi unutmayın c; )
+Aimbot - ESP - BHOP // isterseniz aimbot butonunu düzenleyebilir yada tamamen farklı bir oyuna yapabilirsiniz. ( Farklı bir oyuna yaparsanız offsetleri güncellemeyi unutmayın c; )
 
 İletişim için discord ismim sadece1eren
 
@@ -12,7 +12,7 @@ Programın içi
 
 # L4D2-External
 EN - A simple external hack template feel free to edit.
-Aimbot - ESP - BHOP // you can edit the button if you want or you can make it into a completely different game. (Don't forget to update the offsets if you do it in a different game c; )
+Aimbot - ESP - BHOP // you can edit the aimbot button if you want or you can make it into a completely different game. (Don't forget to update the offsets if you do it in a different game c; )
 
 My discord name for contact is sadece1eren
 
