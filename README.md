@@ -11,7 +11,7 @@ Programın içi
 
 
 # L4D2-External
-EN - A simple external hack source
+EN - A simple external hack template you can edit as you want.
 Aimbot Mouse - ESP - BHOP // you can edit the button if you want or you can make it into a completely different game. (Don't forget to update the offsets if you do it in a different game c; )
 
 My discord name for contact is sadece1eren
